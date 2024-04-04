@@ -4,10 +4,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-- 1. Clone this repository to your local machine.
-- 2. Install dependencies using npm or yarn: `npm install` or `yarn install`.
-- 3. Start the development server: `npm run dev` or `yarn dev`.
-- 4. Open your browser and visit http://localhost:3000 to view your application.
+1. Clone this repository to your local machine.
+2. Install dependencies using npm or yarn: `npm install` or `yarn install`.
+3. Start the development server: `npm run dev` or `yarn dev`.
+4. Open your browser and visit http://localhost:3000 to view your application.
 
 Feel free to customize and extend this template to fit your project requirements. Happy coding!
 
