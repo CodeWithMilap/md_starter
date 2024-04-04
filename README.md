@@ -4,21 +4,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+- 1. Clone this repository to your local machine.
+- 2. Install dependencies using npm or yarn: `npm install` or `yarn install`.
+- 3. Start the development server: `npm run dev` or `yarn dev`.
+- 4. Open your browser and visit http://localhost:3000 to view your application.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Feel free to customize and extend this template to fit your project requirements. Happy coding!
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
